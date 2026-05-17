@@ -14,8 +14,8 @@
 
 ## 🤖 About Me
 
-- 🎓 M.S. Student at **Harbin Institute of Technology, Shenzhen**
-- 🏫 B.S. from **Northwestern Polytechnical University **
+- 🎓 M.S. Student at **Harbin Institute of Technology, Shenzhen (HITSZ)**
+- 🏫 B.S. from **Northwestern Polytechnical University (NWPU)**
 - 🦾 Focused on **Legged Manipulation** — quadruped robots with arm integration
 - 🔬 Research interests: **Reinforcement Learning**, **Sim-to-Real Transfer**, **Whole-Body Control**
 - 🛠️ Main tools: **IsaacLab**, **rsl_rl**, **ROS2**, **Python / C++**
