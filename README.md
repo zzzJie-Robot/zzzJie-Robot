@@ -59,7 +59,7 @@
 
 <div align="center">
 
-![zzzJie-Robot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zzzJie-Robot&show_icons=true&theme=dark&hide_border=true)
+![zzzJie-Robot's GitHub Stats](https://github-readme-stats.vercel.app/api?zzzJie-Robot=anuraghazra)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zzzJie-Robot&layout=compact&theme=dark&hide_border=true)
 
 </div>
