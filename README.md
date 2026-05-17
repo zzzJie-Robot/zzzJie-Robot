@@ -35,28 +35,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-**Simulation & RL**
-
-![IsaacLab](https://img.shields.io/badge/IsaacLab-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![rsl_rl](https://img.shields.io/badge/rsl__rl-FF6B35?style=flat-square)
-![PPO](https://img.shields.io/badge/PPO-blue?style=flat-square)
-
-**Robotics**
-
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=flat-square)
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
----
-
-
 ## 📬 Contact
 
 - 📺 Bilibili: [space.bilibili.com/400627082](https://space.bilibili.com/400627082)
