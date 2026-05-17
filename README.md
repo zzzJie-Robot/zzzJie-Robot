@@ -55,21 +55,13 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub followers](https://img.shields.io/github/followers/zzzJie-Robot?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/zzzJie-Robot?style=flat-square)
-</div>
-
----
 
 ## 📬 Contact
 
 - 📺 Bilibili: [space.bilibili.com/400627082](https://space.bilibili.com/400627082)
 - 🐙 GitHub: [@zzzJie-Robot](https://github.com/zzzJie-Robot)
-
+- 📧 Email: [zzzjierobot@gmail.com](mailto:zzzjierobot@gmail.com)
+- 
 ---
 
 <div align="center">
