@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Zhu Junjie (朱俊杰)
+# 👋 Hi, I'm Junjie Zhu (朱俊杰)
 
 **Robotics Engineer · RL Researcher · Harbin Institute of Technology, Shenzhen**
 
