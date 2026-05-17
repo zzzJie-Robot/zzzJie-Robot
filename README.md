@@ -58,10 +58,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![zzzJie-Robot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zzzJie-Robot&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zzzJie-Robot&layout=compact&theme=dark&hide_border=true)
-
+  
+![GitHub followers](https://img.shields.io/github/followers/zzzJie-Robot?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/zzzJie-Robot?style=flat-square)
 </div>
 
 ---
