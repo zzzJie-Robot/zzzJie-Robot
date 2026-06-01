@@ -25,6 +25,15 @@
 
 ## 🚀 Featured Projects
 
+### 🌐 [LeggedManip_Lab](https://github.com/zzzJie-Robot/LeggedManip_Lab) · ![Stars](https://img.shields.io/github/stars/zzzJie-Robot/LeggedManip_Lab?style=flat-square) ![NEW](https://img.shields.io/badge/NEW-2026/06-brightgreen?style=flat-square)
+> **Unified RL framework for whole-body legged manipulation**
+> — Supports **7 robot platforms** × **2 training modes** (Flat + WBC)
+> — IsaacLab training → MuJoCo deployment → Sim-to-Real
+
+
+
+
+
 ### 🦿 [Go2Arm_Lab](https://github.com/zzzJie-Robot/Go2Arm_Lab) · ![Stars](https://img.shields.io/github/stars/zzzJie-Robot/Go2Arm_Lab?style=flat-square)
 > A legged manipulator framework based on **IsaacLab**
 > — RL training pipeline for quadruped robots equipped with robotic arms
