@@ -5,7 +5,7 @@
 **Robotics Engineer · RL Researcher · Harbin Institute of Technology, Shenzhen**
 
 [![GitHub followers](https://img.shields.io/github/followers/zzzJie-Robot?style=flat-square&logo=github&label=Followers)](https://github.com/zzzJie-Robot?tab=followers)
-[![Stars](https://img.shields.io/badge/Total%20Stars-250%2B-yellow?style=flat-square&logo=github)](https://github.com/zzzJie-Robot)
+[![Stars](https://img.shields.io/github/stars/zzzJie-Robot?style=flat-square&logo=github&label=Total%20Stars)](https://github.com/zzzJie-Robot)
 [![Bilibili](https://img.shields.io/badge/Bilibili-space.bilibili.com-pink?style=flat-square&logo=bilibili)](https://space.bilibili.com/400627082)
 
 </div>
