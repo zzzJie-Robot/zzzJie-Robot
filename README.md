@@ -39,7 +39,7 @@
 > A legged manipulator framework based on **IsaacLab**
 > — RL training pipeline for quadruped robots equipped with robotic arms
 
-### 🔁 [Go2Arm_sim2sim](https://github.com/zzzJie-Robot/Go2Arm_sim2sim) · ![Stars](https://img.shields.io/github/stars/zzzJie-Robot/Go2Arm_sim2sim?style=flat-square)
+### 🔁 [Go2Arm_sim2sim](https://github.com/zzzJie-Robot/Go2Arm_sim2sim) · ![Stars](https://img.shields.io/github/stars/zzzJie-Robot/Go2Arm_sim2sim?style=flat-square&v=1)
 
 > Sim-to-Sim verification for legged manipulators
 > — IsaacLab → Gazebo transfer for RL policy validation
